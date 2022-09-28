@@ -5,7 +5,7 @@ Dans ce projet 3 poemes en travail on travaille en equipe
 sujet: la vie est ville
 
 ## poeme 2
-sujet: la vie d'analyste prog
+sujet: la vie d'analyste programmeur
 
 ## poemme 3
 sujet: la joie du partage et la découverte
